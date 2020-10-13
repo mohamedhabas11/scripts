@@ -1,0 +1,58 @@
+Junior Support Engineer
+Zürich, Zurich, Switzerland | Operations | Full-time
+
+ 
+Are you excited to start off your career and play a key role in the operations of an industry leading PropTech solution? Are you ready to take on a new challenge and join a leading Swiss PropTech start-up with global growth track-record? Then apply now and become part of our mission!
+
+Locatee AG is the leading workplace analytics solution that transforms complex data into space utilisation insight. Developed with a strong focus and a deep understanding of the corporate real estate challenges facing the modern world of work, Locatee empowers companies to make decisions about your business buildings with confidence.
+
+ 
+
+What you will do
+Install, configure and maintain components at our customers globally
+Setup, test and troubleshoot Locatee Analytics deployments
+Use, improve and come up with suggestions for new tools to optimise your own and operational workflows
+Work in an environment with advanced network and cloud technologies
+Be part of the Support team in Operations and work closely together with Pre-Sales, IT Project Managers and Customer Success
+Be responsible for addressing incoming customer technical requests and support tickets
+Investigate and report on irregularities in collaboration with engineering and other teams to help developing our product and processes
+Resolve issues with our customers, follow-up on status and updates
+Help building up our technical support team
+Take part in scaling up our operations team globally
+What you bring
+University degree in Information Technology, Computer Science or a related discipline or equivalent professional experience
+Experience with common operational tools and programs (e.g. Unix terminal)
+Basic understanding of scripting
+Basic network knowledge 
+Experience with database queries and API usage
+Basic knowledge of cloud technologies (Kubernetes, Docker, Google Cloud)
+Ability to dig for the root cause
+Customer oriented attitude
+Keen attention to detail
+Ability to take initiative, manage and effectively prioritize
+Ability to work competently on production-level infrastructure
+Positive attitude with a strong sense of curiosity, passion for learning and collaboration
+Fluent in English, German is a plus
+Why you should work with us
+The chance to work in an English-speaking environment with room to grow in a dedicated, passionate, expert and experienced team that cares for each other 
+Work on cutting-edge big data analytics technology for the largest organisations worldwide
+A real scale-up adventure with great rewards: we offer Phantom Stock Options to be part of Locatee’s success
+Through a flat organisation we encourage innovation, ownership and open communication so that everybody feels engaged in the dynamic of the group
+A lot of independence and responsibility
+An inspiring and modern working environment in Zurich (you'll love our plants & trees, the hammock, standing desks, quiet zones, couches,...)
+We live diversity
+Flexible work from home or at the office
+Optimise you work-life balance and work from abroad
+Continuous learning through our Locatee Academy
+Regular team events, after-work beers and much more, we never miss out on fun!
+Fresh fruits basket, homemade cakes, free tea, coffee & snacks
+Who we are
+We are a Zurich-based start-up that supports large companies in optimizing their office buildings. Our Smart Building platform "Locatee " provides real-time data that makes office buildings intelligent and user-oriented. Thanks to Locatee, large organisations worldwide are able to intelligently optimize their office buildings and shape the way how people interact with their workspace.
+
+Our motto is to create a work environment where people love to work.  This is not only our working culture but also what we want our customers to reach thanks to Locatee.
+
+Our fantastic diverse team consists of over 40 people with strong backgrounds in Product, Computer & Data science, Business Development, Marketing and Human Resources.
+
+If this sounds exciting, please hit the Apply button. Charlotte and the team are looking forward to hearing from you!
+
+
