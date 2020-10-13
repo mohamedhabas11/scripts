@@ -1,0 +1,44 @@
+drinks = ["espresso", "chai", "decaf", "drip"]
+caffeine = [64, 40, 0, 120]
+zipped_drinks = zip(drinks, caffeine)
+drinks_to_caffeine = {key: value for key, value in zipped_drinks}
+
+
+# zipped_list = zip(key,value))
+# key_pair = {key: value for key , value in zipped_lists}
+
+#--------------------------------------------------------------------------------------------------------------#
+#--------------------------------------------------------------------------------------------------------------# 
+
+
+songs = ["Like a Rolling Stone", "Satisfaction", "Imagine", "What's Going On", "Respect", "Good Vibrations"]
+playcounts = [78, 29, 44, 21, 89, 5]
+
+plays = {song:playcount for [song, playcount] in zip(songs, playcounts)}
+
+plays["Respect"] = 94
+plays["Purple Haze"] = 1
+
+library = {"The Best Songs": plays, "Sunday Feelings": {}}
+
+print(library)
+
+# key1 = []
+# key2 = []
+# dictionary = {key1:key2 for [key1,key2] in zip(key1,key2))
+# dictionary["newkey1"] = newkey2 or "newkey2"
+
+
+
+
+#--------------------------------------------------------------------------------------------------------------#                                
+#--------------------------------------------------------------------------------------------------------------# 
+
+
+zodiac_elements = {"water": ["Cancer", "Scorpio", "Pisces"], "fire": ["Aries", "Leo", "Sagittarius"], "earth": ["Taurus", "Virgo", "Capricorn"], "air":["Gemini", "Libra", "Aquarius"]}
+
+zodiac_elements["energy"] = "Not a Zodiac element"
+
+print(zodiac_elements["energy"])
+
+#search for a key that might not be there
